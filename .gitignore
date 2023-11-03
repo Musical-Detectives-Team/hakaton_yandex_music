@@ -1,6 +1,9 @@
-/models
-/data 
-/catboost_info
-
+# jupiter notebook checkpoinst
 .ipynb_checkpoints
+# catboost files
+/catboost_info
+# все файлы json
+*.json
+# папка data
+/data
 .env
