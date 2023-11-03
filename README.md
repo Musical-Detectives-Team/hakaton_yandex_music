@@ -39,7 +39,7 @@
 Предоставлены результаты визуализации данных по датасетам на этапе EDA.
 
 # Состав команды:
-[Елена Кравцова](https://github.com/ElenaKravtsova20) - PM команды
-[Алексей Томашевский](https://github.com/TomashA1980) - DS команды
-[Татьяна Вдовина](https://github.com/vdovinati) - DS команды
+[Елена Кравцова](https://github.com/ElenaKravtsova20) - PM команды  
+[Алексей Томашевский](https://github.com/TomashA1980) - DS команды  
+[Татьяна Вдовина](https://github.com/vdovinati) - DS команды  
 [Ярослав Князев](https://github.com/Yaroslav-Kn) - DS команды
